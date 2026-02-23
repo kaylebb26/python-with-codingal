@@ -1,0 +1,5 @@
+print("Hi my name is Kayleb") 
+print("I am 11 years old")
+print("I like to play basketball with my friends")
+print("my favourite game is roblox")
+print("my favourite vacation trip is Dubai")
