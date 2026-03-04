@@ -1,0 +1,14 @@
+name="Kayleb"
+age=11
+weight=65
+student=True
+print(type(name))
+print(type(age))
+print(type(weight))
+print(type(student))
+n=float(age)
+print(type(n),n)
+d=int(weight)
+print(type(d),d)
+x=str(student)
+print(type(x),x)
